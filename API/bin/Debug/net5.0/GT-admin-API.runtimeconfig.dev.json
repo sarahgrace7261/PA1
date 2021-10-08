@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/kera/.dotnet/store/|arch|/|tfm|",
+      "/Users/kera/.nuget/packages"
+    ]
+  }
+}
